@@ -1,3 +1,9 @@
-//
-// Created by my pc on 10/29/2025.
-//
+#include <stdio.h>
+
+int main() {
+    int i;
+    for (i = 100; i >= 1; i--) {
+        printf("%d\n ", i);
+    }
+    return 0;
+}
