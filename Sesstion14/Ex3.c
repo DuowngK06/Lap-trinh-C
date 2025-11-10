@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-// Hàm tính tổng hai số
+
 int tinhTong(int a, int b) {
     int cong = a + b;
-    return cong; // Trả về kết quả
+    return cong;
 }
 
 int main() {

@@ -17,7 +17,19 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e350ea1-b1b5-44b3-85c3-041b652d8389" name="Changes" comment="" />
+    <list default="true" id="0e350ea1-b1b5-44b3-85c3-041b652d8389" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Sesstion14/Ex3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesstion14/Ex4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesstion14/Ex5.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sesstion10/Ex3.c" beforeDir="false" afterPath="$PROJECT_DIR$/Sesstion10/Ex3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sesstion10/Ex4.c" beforeDir="false" afterPath="$PROJECT_DIR$/Sesstion10/Ex4.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sesstion10/Ex5.c" beforeDir="false" afterPath="$PROJECT_DIR$/Sesstion10/Ex5.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sesstion10/Ex6.c" beforeDir="false" afterPath="$PROJECT_DIR$/Sesstion10/Ex6.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sesstion11/Ex1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Sesstion11/Ex1.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +103,7 @@
       <recent name="C:\Users\my pc\Desktop\LT C\Sesstion5" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.Ex1.c (1)">
+  <component name="RunManager" selected="C/C++ File.Ex4.c">
     <configuration name="Ex1.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LT C" TARGET_NAME="Ex1.c" CONFIG_NAME="Ex1.c">
       <option name="sourceFile" value="Sesstion9\Ex1.c" />
       <method v="2">
@@ -116,19 +128,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LT C" TARGET_NAME="Ex6.c" CONFIG_NAME="Ex6.c">
-      <option name="sourceFile" value="Sesstion6\Ex6.c" />
+    <configuration name="Ex4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LT C" TARGET_NAME="Ex4.c" CONFIG_NAME="Ex4.c">
+      <option name="sourceFile" value="Sesstion14\Ex4.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Ex4.c" />
+        <item itemvalue="C/C++ File.Ex1.c" />
         <item itemvalue="C/C++ File.Ex1.c (1)" />
         <item itemvalue="C/C++ File.Ex2.cpp" />
-        <item itemvalue="C/C++ File.Ex1.c" />
         <item itemvalue="C/C++ File.Ex4.c (1)" />
-        <item itemvalue="C/C++ File.Ex6.c" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +167,8 @@
       <workItem from="1762352352641" duration="1213000" />
       <workItem from="1762390928913" duration="5036000" />
       <workItem from="1762396950097" duration="361000" />
+      <workItem from="1762700591907" duration="2136000" />
+      <workItem from="1762780210809" duration="3256000" />
     </task>
     <servers />
   </component>
